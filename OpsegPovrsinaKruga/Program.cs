@@ -20,6 +20,7 @@ namespace OpsegPovrsinaKruga
             O = 2 * r * pi;
             P = r * r * pi; //P = r * O / 2;
             Console.WriteLine("Površina je "+P+"\nOpseg je "+O);
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
