@@ -29,7 +29,6 @@ namespace ProsjekOcjena
                 }
             }
             Console.WriteLine("Prosjek ocjena je {0} ",(float)suma/5);
-            int r;
         }
     }
 }
